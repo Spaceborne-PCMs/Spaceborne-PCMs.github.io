@@ -1,7 +1,7 @@
 ---
-title: pafatbn forever!
+title: Welcome
 layout: template
 filename: index
 --- 
 
-# patrickandfrantonarethebestninjas
+# Welcome
