@@ -3,10 +3,7 @@ title: Keyword Survey
 layout: template
 filename: keywordsurvey
 --- 
-
-# Survey of Relevant Keywords
-
-# Method for collecting and processing keywords
+# Methods for collecting and processing keywords:
 
 ## Analysis of the paper search results from Institute of Electrical and Electronics Engineers (IEEE) and The Optical Society (OSA) 
 
