@@ -22,9 +22,7 @@ Figure 1 shows the top 30 keywords appeared in the search result (with “phase 
 
 The keyword information can be extracted from the citation data (RIS format in particular) provided by the search services and a simple Python script was written to extract the keywords. Once the keywords are retrieved, its frequencies are counted and sorted in a descending order. From Figure 1, it can be seen that the keywords chosen by the authors show different trends depending on the search results being from IEEE or OSA archive.
 
-
-
-| Keyword  (IEEE)                    | **Count** |
+| **Keyword  (IEEE)**                | **Count** |
 | ---------------------------------- | --------- |
 | Phase  change materials            | 795       |
 | phase  change materials            | 755       |
