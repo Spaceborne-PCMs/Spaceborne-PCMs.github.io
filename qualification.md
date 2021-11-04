@@ -12,7 +12,7 @@ filename: qualification
 
 | **Country** | **References** | **Organization** | **Publication Year** | **Evaluated LEO Environment Effect(s)** |
 |---|---|---|---|---|
-| USA | \[22\],\[31\] | Colorado State University Electric Propulsion & Plasma Engineering (CEPPE) Laboratory | 2016 | Atomic oxygen |
+| USA | [\[22\]](http://www.xn--80ancbhdkpb2a9a.xn--p1ai/Sctc2016/4101/1715_Bil%D0%92n.pdf),\[31\] | Colorado State University Electric Propulsion & Plasma Engineering (CEPPE) Laboratory | 2016 | Atomic oxygen |
 |  | \[24\] | School of Electrical Engineering and Computer Science, The Pennsylvania State University | 2016 | Plasma |
 |  | \[25\] | Air Force Institute of Technology, Department of Aeronautics and Astronautics | 2019 | Atomic oxygen and UV radiation |
 |  | \[26\] | Materials Department, New Mexico Institute of Mining and Technology | 2017 | Gamma radiation |
