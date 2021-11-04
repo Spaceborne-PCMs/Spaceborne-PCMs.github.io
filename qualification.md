@@ -1,6 +1,6 @@
 ---
 title: Qualification of Spaceborne PCMs
-layout: index
+layout: template
 filename: qualification
 --- 
 
