@@ -9,6 +9,7 @@ filename: qualification
 # Evaluations in Simulated Low-Earth Orbit (LEO) Conditions
 
 ## Academic Research Laboratories
+
 | **Country** | **References** | **Organization** | **Publication Year** | **Evaluated LEO Environment Effect(s)** |
 |---|---|---|---|---|
 | USA | [22],[31] | Colorado State University Electric Propulsion & Plasma Engineering (CEPPE) Laboratory | 2016 | Atomic oxygen |
@@ -33,6 +34,7 @@ filename: qualification
 |  | [35] | Division of Mechanical Engineering, Korea Advanced Institute of Science and Technology | 2004 | Vacuum, UV radiation, thermal cycling, atomic oxygen |
 
 ## Companies
+
 | **References** | **Organization** | **Year(s)** | **Evaluated LEO Effect(s)** |
 |---|---|---|---|
 | [1] | Utah State University Space Dynamics Laboratory | 1982-2021 (ongoing) | Thermal cycling, radiation, plasma, vacuum. |
@@ -46,6 +48,7 @@ filename: qualification
 | [52] | Element | 1827 (company   was founded)-2021 (ongoing) | Gamma radiation |
 
 ## Space Agencies
+
 | Reference | Organization | Year | Evaluated LEO Effect(s) |
 |---|---|---|---|
 | [23] | Space Environmental Effects Team, NASA   Marshall Space Flight Center | 2019 | Plasma |
@@ -55,22 +58,23 @@ filename: qualification
 | [2] | ESA (Materials & Electrical Components Laboratory) | -2021 (ongoing) | Radiation, thermal cycling, atomic oxygen. |
 
 # In-Situ Material Evaluation
-| Reference 	| Organization (or Mission)                                                             	| Starting Year 	| Ending Year 	| Evaluated LEO Effect(s)                                                            	|
-|-----------	|---------------------------------------------------------------------------------------	|---------------	|-------------	|------------------------------------------------------------------------------------	|
-| [4]--[6]  	| NASA (Long Duration Exposure Facility)                                                	| 1984          	| 1990        	| Micrometeoroids, space debris, radiation   particles, atomic oxygen, and radiation 	|
-| [8]       	| NASA (Mir Environmental Effects Payload)                                              	| 1996          	| 1997        	| Space debris                                                                       	|
-| [7],[13]  	| NASA (Materials International Space Station Experiment, MISSE)                        	| 2001          	| 2021        	| Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation 	|
-| [9]       	| NASA (EPSCoR ISS and Suborbital Flight Opportunity)                                   	| 2020          	| 2021        	| Dependent on experiment                                                            	|
-| [17]      	| NASA (Advanced Composite materials Exposure to Space Experiment, ACOMEX   on STS-41G) 	| 1984          	| 1984.9      	| Atomic oxygen                                                                      	|
-| [10]      	| JAXA (Materials Degradation Monitor)                                                  	| 2017          	| 2019        	| Atomic oxygen                                                                      	|
-| [11]      	| JAXA (Evaluation of Oxygen with Materials, EOIM)                                      	| 1992          	| 1992.9      	| Atomic oxygen                                                                      	|
-| [3]       	| JAXA (Small Demonstration Satellite)                                                  	| 2009          	| 2009.9      	| Atomic oxygen and radiation                                                        	|
-| [11]      	| JAXA (Exposed Facility Flyer Unit, EFFU)                                              	| 1995          	| 1996        	| Material degradation                                                               	|
-| [11]      	| JAXA (Evaluation of the Space Environment and Effects on Materials, ESEM)             	| 1997          	| 1997.9      	| Material degradation                                                               	|
-| [18]      	| ESA (European Retrievable Carrier, EURECA spacecraft)                                 	| 1992          	| 1993        	| atomic oxygen                                                                      	|
-| [11]      	| ESA (Debris In Orbit Evaluation, DEBIE)                                               	| 2001          	| 2005        	| Debris and Micrometeroids                                                          	|
-| [11]      	| ESA (Standard Radiation Environment Monitor, SREM)                                    	| 2002          	| 2021        	| Radiation                                                                          	|
-| [11]      	| ESA (Materials Exposure and Degradation Experiment, MEDET)                            	| 2008          	| 2009        	| Atomic oxygen, radiation, and local pressure                                       	|
-| [42],[43] 	| RSC Energia (Russian Space Program)                                                   	| 1990          	| 2008        	| Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation 	|
-| [45]      	| Russian Space Program (RCC-1 mission)                                                 	| 1990          	| 1991        	| Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation 	|
-| [12],[14] 	| Alpha Space LLC (MISSE)                                                               	| 2001          	| 2021        	| Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation 	|
+
+| Reference | Organization (or Mission) | Starting Year | Ending Year | Evaluated LEO Effect(s) |
+|---|---|---|---|---|
+| [4]--[6] | NASA (Long Duration Exposure Facility) | 1984 | 1990 | Micrometeoroids, space debris, radiation   particles, atomic oxygen, and radiation |
+| [8] | NASA (Mir Environmental Effects Payload) | 1996 | 1997 | Space debris |
+| [7],[13] | NASA (Materials International Space Station Experiment, MISSE) | 2001 | 2021 | Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation |
+| [9] | NASA (EPSCoR ISS and Suborbital Flight Opportunity) | 2020 | 2021 | Dependent on experiment |
+| [17] | NASA (Advanced Composite materials Exposure to Space Experiment, ACOMEX   on STS-41G) | 1984 | 1984-89 | Atomic oxygen |
+| [10] | JAXA (Materials Degradation Monitor) | 2017 | 2019 | Atomic oxygen |
+| [11] | JAXA (Evaluation of Oxygen with Materials, EOIM) | 1992 | 1992-89 | Atomic oxygen |
+| [3] | JAXA (Small Demonstration Satellite) | 2009 | 2009-19 | Atomic oxygen and radiation |
+| [11] | JAXA (Exposed Facility Flyer Unit, EFFU) | 1995 | 1996 | Material degradation |
+| [11] | JAXA (Evaluation of the Space Environment and Effects on Materials, ESEM) | 1997 | 1997-99 | Material degradation |
+| [18] | ESA (European Retrievable Carrier, EURECA spacecraft)  | 1992 | 1993 | atomic oxygen |
+| [11] | ESA (Debris In Orbit Evaluation, DEBIE) | 2001 | 2005 | Debris and Micrometeroids |
+| [11] | ESA (Standard Radiation Environment Monitor, SREM) | 2002 | 2021 | Radiation |
+| [11] | ESA (Materials Exposure and Degradation Experiment, MEDET) | 2008 | 2009 | Atomic oxygen, radiation, and local pressure |
+| [42],[43] | RSC Energia (Russian Space Program) | 1990 | 2008 | Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation |
+| [45] | Russian Space Program (RCC-1 mission) | 1990 | 1991 | Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation |
+| [12],[14] | Alpha Space LLC (MISSE) | 2001 | 2021 | Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation |
