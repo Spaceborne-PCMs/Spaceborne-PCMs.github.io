@@ -4,7 +4,9 @@ layout: template
 filename: qualification
 --- 
 
-# Qualification of Spaceborne Phase-Changing Materials for Low-Earth Orbit (LEO)
+# Qualification of Spaceborne Phase-Changing Materials (PCM) for Low-Earth Orbit (LEO)
+
+The tables below detail the academic research laboratories, companies, and space agencies that are studying or have studied the effects of the low-earth orbit (LEO) environment on various materials (not necessarily PCMs). The materials are evaluated either in (a) simulated LEO conditions or (b) _in situ_ through missions to LEO.
 
 ## Academic Research Laboratories Evaluating Materials in Simulated LEO Conditions
 
