@@ -8,28 +8,28 @@ filename: qualification
 
 ## Academic Research Laboratories Evaluating Materials in Simulated LEO Conditions
 
-| **Country** | **Links** | **Organization** | **Publication Year** | **Evaluated LEO Environment Effect(s)** |
+| **Country/Continent** | **Links** | **Organization** | **Publication Year** | **Evaluated LEO Environment Effect(s)** |
 |---|---|---|---|---|
 | USA | [(1)](https://projects-web.engr.colostate.edu/ionstand/index.php), [(2)](https://aip.scitation.org/doi/abs/10.1063/1.4967619) | Colorado State University Electric Propulsion & Plasma Engineering (CEPPE) Laboratory | 2016 | Atomic oxygen |
-|  | [(1)](http://www.xn--80ancbhdkpb2a9a.xn--p1ai/Sctc2016/4101/1715_Bil%D0%92n.pdf) | School of Electrical Engineering and Computer Science, The Pennsylvania State University | 2016 | Plasma |
-|  | [(1)](https://doi.org/10.1016/j.matdes.2019.108178) | Air Force Institute of Technology, Department of Aeronautics and Astronautics | 2019 | Atomic oxygen and UV radiation |
-|  | [(1)](https://doi.org/10.1115/1.4037684) | Materials Department, New Mexico Institute of Mining and Technology | 2017 | Gamma radiation |
-|  | [(1)](https://arc.aiaa.org/doi/pdf/10.2514/1.15787) | University of Akron, Akron, Ohio | 2006 | Atomic oxygen |
-|  | [(1)](https://www.proquest.com/docview/1748093333?pq-origsite=gscholar&fromopenview=true) | University of Nebraska - Lincoln | 2015 | Atomic oxygen |
+| USA | [(1)](http://www.xn--80ancbhdkpb2a9a.xn--p1ai/Sctc2016/4101/1715_Bil%D0%92n.pdf) | School of Electrical Engineering and Computer Science, The Pennsylvania State University | 2016 | Plasma |
+| USA | [(1)](https://doi.org/10.1016/j.matdes.2019.108178) | Air Force Institute of Technology, Department of Aeronautics and Astronautics | 2019 | Atomic oxygen and UV radiation |
+| USA | [(1)](https://doi.org/10.1115/1.4037684) | Materials Department, New Mexico Institute of Mining and Technology | 2017 | Gamma radiation |
+| USA | [(1)](https://arc.aiaa.org/doi/pdf/10.2514/1.15787) | University of Akron, Akron, Ohio | 2006 | Atomic oxygen |
+| USA | [(1)](https://www.proquest.com/docview/1748093333?pq-origsite=gscholar&fromopenview=true) | University of Nebraska - Lincoln | 2015 | Atomic oxygen |
 | Europe | [(1)](https://doi.org/10.1016/j.asr.2020.03.024) | CENTRA, Faculdade de Ciências da Universidade de Lisboa, Lisboa, Portugal | 2020 | Vacuum, UV radiation, and thermal cycling |
-|  | [(1)](https://doi.org/10.1021/acsami.0c21552) | Advanced Technology Institute, Department of Electrical and Electronic Engineering, University of Surrey | 2021 | Atomic oxygen and UV radiation |
-|  | [(1)](https://doi.org/10.1016/j.actaastro.2021.01.030) | A. Alikhanyan National Science Laboratory (Yerevan Physics Institute) | 2021 | Thermal cycling, UV radiation, vacuu, plasma |
+| Europe | [(1)](https://doi.org/10.1021/acsami.0c21552) | Advanced Technology Institute, Department of Electrical and Electronic Engineering, University of Surrey | 2021 | Atomic oxygen and UV radiation |
+| Europe | [(1)](https://doi.org/10.1016/j.actaastro.2021.01.030) | A. Alikhanyan National Science Laboratory (Yerevan Physics Institute) | 2021 | Thermal cycling, UV radiation, vacuu, plasma |
 | China | [(1)](https://www.scientific.net/AMR.314-316.249) | Institute of Metal Research, Chinese Academy of Science | 2011 | Atomic oxygen |
-|  | [(1)](https://arc.aiaa.org/doi/pdf/10.2514/1.10890) | City University of Hong Kong, Hong Kong, People’s Republic of China | 2004 | Atomic oxygen |
-|  | [(1)](https://doi.org/10.1016/j.compositesb.2015.03.029) | Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences | 2014 | Atomic oxygen |
-|  | [(1)](https://link.springer.com/chapter/10.1007/978-3-319-19309-0_28) | Lanzhou Institute of Vacuum Physics | 1990s | Atomic oxygen |
-|  | [(1)](https://link.springer.com/chapter/10.1007/978-3-319-19309-0_28) | Beijing University of Aeronautics and Astronautics | 1990s | Atomic oxygen |
-|  | [(1)](https://link.springer.com/chapter/10.1007/978-3-319-19309-0_28) | Beijing Institute of Spacecraft Environment Engineering | 1996 | Atomic oxygen |
+| China | [(1)](https://arc.aiaa.org/doi/pdf/10.2514/1.10890) | City University of Hong Kong, Hong Kong, People’s Republic of China | 2004 | Atomic oxygen |
+| China | [(1)](https://doi.org/10.1016/j.compositesb.2015.03.029) | Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences | 2014 | Atomic oxygen |
+| China | [(1)](https://link.springer.com/chapter/10.1007/978-3-319-19309-0_28) | Lanzhou Institute of Vacuum Physics | 1990s | Atomic oxygen |
+| China | [(1)](https://link.springer.com/chapter/10.1007/978-3-319-19309-0_28) | Beijing University of Aeronautics and Astronautics | 1990s | Atomic oxygen |
+| China | [(1)](https://link.springer.com/chapter/10.1007/978-3-319-19309-0_28) | Beijing Institute of Spacecraft Environment Engineering | 1996 | Atomic oxygen |
 | Australia | [(1)](https://doi.org/10.1002/(SICI)1099-1581(199801)9:1%3C24::AID-PAT730%3E3.0.CO;2-5) | Polymer Materials and Radiation Group, The University of Queensland, Brisbane, Australia | 1998 | Atomic oxygen and UV radiation |
-|  | [(1)](https://doi.org/10.1016/j.eurpolymj.2006.04.018) | Applied and Plasma Physics, School of Physics (A28), The University of Sydney | 2006 | Vacuum, temperature cycling, plasma |
+| Australia | [(1)](https://doi.org/10.1016/j.eurpolymj.2006.04.018) | Applied and Plasma Physics, School of Physics (A28), The University of Sydney | 2006 | Vacuum, temperature cycling, plasma |
 | Israel | [(1)](https://doi.org/10.1177%2F0954008304044103) | Space Environmental Division, Soruq Nuclear Research Center, Yavne, Israel | 2004 | Plasma, atomic oxygen, and radiation |
 | Korea | [(1)](https://doi.org/10.1016/j.polymdegradstab.2010.03.013) | School of Aerospace Engineering, Korean Advanced Institute of Science and Technology | 2010 | UV radiation, temperature cycling, atomic oxygen |
-|  | [(1)](https://doi.org/10.1016/j.compstruct.2004.11.007) | Division of Mechanical Engineering, Korea Advanced Institute of Science and Technology | 2004 | Vacuum, UV radiation, thermal cycling, atomic oxygen |
+| Korea | [(1)](https://doi.org/10.1016/j.compstruct.2004.11.007) | Division of Mechanical Engineering, Korea Advanced Institute of Science and Technology | 2004 | Vacuum, UV radiation, thermal cycling, atomic oxygen |
 
 ## Companies Evaluating Materials in Simulated LEO Conditions
 
