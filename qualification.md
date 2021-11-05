@@ -4,11 +4,9 @@ layout: template
 filename: qualification
 --- 
 
-# Qualification of Phase-Changing Materials
+# Qualification of Spaceborne Phase-Changing Materials for Low-Earth Orbit (LEO)
 
-# Evaluations in Simulated Low-Earth Orbit (LEO) Conditions
-
-## Academic Research Laboratories
+## Academic Research Laboratories Evaluating Materials in Simulated LEO Conditions
 
 | **Country** | **Links** | **Organization** | **Publication Year** | **Evaluated LEO Environment Effect(s)** |
 |---|---|---|---|---|
@@ -33,7 +31,7 @@ filename: qualification
 | Korea | [(1)](https://doi.org/10.1016/j.polymdegradstab.2010.03.013) | School of Aerospace Engineering, Korean Advanced Institute of Science and Technology | 2010 | UV radiation, temperature cycling, atomic oxygen |
 |  | [(1)](https://doi.org/10.1016/j.compstruct.2004.11.007) | Division of Mechanical Engineering, Korea Advanced Institute of Science and Technology | 2004 | Vacuum, UV radiation, thermal cycling, atomic oxygen |
 
-## Companies
+## Companies Evaluating Materials in Simulated LEO Conditions
 
 | **References** | **Organization** | **Year(s)** | **Evaluated LEO Effect(s)** |
 |---|---|---|---|
@@ -47,7 +45,7 @@ filename: qualification
 | [(1)](https://doi.org/10.1117/12.861749) | Nusil Technology; International Photonics Consultants | 2010 | Gamma radiation |
 | [(1)](https://www.element.com/product-qualification-testing-services/space-simulation) | Element | 1827 (company   was founded)-2021 (ongoing) | Gamma radiation |
 
-## Space Agencies
+## Space Agencies Evaluating Materials in Simulated LEO Conditions
 
 | Reference | Organization | Year | Evaluated LEO Effect(s) |
 |---|---|---|---|
@@ -57,7 +55,7 @@ filename: qualification
 | [(1)](https://doi.org/10.1016/j.compscitech.2013.08.017) | Department of Launch Vehicle System Integration, Korea Aerospace Research   Institute | 2013 | Vacuum, atomic oxygen, UV radiation, and thermal cycling |
 | [(1)](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Materials_Electrical_Components_Laboratory) | ESA (Materials & Electrical Components Laboratory) | -2021 (ongoing) | Radiation, thermal cycling, atomic oxygen. |
 
-# In-Situ Material Evaluation
+# Space Agencies and Companies Materials _in situ_
 
 | Reference | Organization (or Mission) | Starting Year | Ending Year | Evaluated LEO Effect(s) |
 |---|---|---|---|---|
