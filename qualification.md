@@ -35,7 +35,7 @@ The tables below detail the academic research laboratories, companies, and space
 
 ## Companies Evaluating Materials in Simulated LEO Conditions
 
-| **References** | **Organization** | **Year(s)** | **Evaluated LEO Effect(s)** |
+| **Links** | **Organization** | **Year(s)** | **Evaluated LEO Effect(s)** |
 |---|---|---|---|
 | [(1)](https://www.sdl.usu.edu/) | Utah State University Space Dynamics Laboratory | 1982-2021 (ongoing) | Thermal cycling, radiation, plasma, vacuum. |
 | [(1)](https://nts.com/ntsblog/materials-survive-in-space/) | NTS | 1961-2021 (ongoing) | Thermal cycling, radiation, vacuum |
@@ -49,7 +49,7 @@ The tables below detail the academic research laboratories, companies, and space
 
 ## Space Agencies Evaluating Materials in Simulated LEO Conditions
 
-| Reference | Organization | Year | Evaluated LEO Effect(s) |
+| **Links** | **Organization** | **Year** | **Evaluated LEO Effect(s)** |
 |---|---|---|---|
 | [(1)](https://doi.org/10.1109/TPS.2019.2914659) | Space Environmental Effects Team, NASA   Marshall Space Flight Center | 2019 | Plasma |
 | [(1)](https://doi.org/10.1016/j.asr.2019.03.025) | Jet Propulsion Laboratory, California Institute of Technology | 2019 | Radiation |
@@ -59,7 +59,7 @@ The tables below detail the academic research laboratories, companies, and space
 
 ## Space Agencies and Companies Materials _in situ_
 
-| Reference | Organization (or Mission) | Starting Year | Ending Year | Evaluated LEO Effect(s) |
+| **Links** | **Organization (or Mission)** | **Starting Year** | **Ending Year** | **Evaluated LEO Effect(s)** |
 |---|---|---|---|---|
 | [(1)](https://curator.jsc.nasa.gov/mic/ldef/), [(2)](https://www.nasa.gov/centers/marshall/history/ldef01.html) | NASA (Long Duration Exposure Facility) | 1984 | 1990 | Micrometeoroids, space debris, radiation   particles, atomic oxygen, and radiation |
 | [(1)](https://www.nasa.gov/centers/langley/news/releases/1996/Mar96/96_13.html) | NASA (Mir Environmental Effects Payload) | 1996 | 1997 | Space debris |
