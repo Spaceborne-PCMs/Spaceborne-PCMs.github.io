@@ -15,7 +15,7 @@ The idea of estimating research trends is that these keywords are closely relate
 
 Selection of IEEE and OSA paper archives was determined in terms of the application area. While IEEE papers focus more on electronics-related research issues, OSA focuses on optics. Thus, the keyword searches with “phase change material” for both paper archives are expected to provide PCM research trends in (i) electronics in general and in (ii) optics.
 
-Table 1 shows the top 30 keywords appeared in the search result (with “phase change material”) sorted by the appearing frequency. In order to put a bound in the research trend period, the search is filtered from the year 2004 to 2019. “Phase change material” is provided as the search word. IEEE search services (https://ieeexplore.ieee.org/search/advanced) generated a total of 5891 results and OSA (https://www.osapublishing.org/search.cfm) generated 974 papers, as of December 8, 2019. Since manually retrieving all the search results from the web pages takes excessive time and effort, the first 1000 search results from IEEE and 500 searches from OSA results are selected to further analyze the keywords listed in the papers.
+Table 1 shows the top 30 keywords appeared in the search result (with “phase change material”) sorted by the appearing frequency. In order to put a bound in the research trend period, the search is filtered from the year 2004 to 2019. “Phase change material” is provided as the search word. [IEEE search services](https://ieeexplore.ieee.org/search/advanced) generated a total of 5891 results and [OSA](https://www.osapublishing.org/search.cfm) generated 974 papers, as of December 8, 2019. Since manually retrieving all the search results from the web pages takes excessive time and effort, the first 1000 search results from IEEE and 500 searches from OSA results are selected to further analyze the keywords listed in the papers.
 
 The keyword information can be extracted from the citation data (RIS format in particular) provided by the search services and a simple Python script was written to extract the keywords. Once the keywords are retrieved, its frequencies are counted and sorted in a descending order. From Table 1, it can be seen that the keywords chosen by the authors show different trends depending on the search results being from IEEE or OSA archive.
 
@@ -87,13 +87,13 @@ Table 1. Top frequency keywords appeared in IEEE and OSA paper search results (w
 
 ## Analysis of _Nature_ and _Science Magazine_ Paper Archives
 
-The same keyword search and frequency-listing method above can be repeated for Nature (https://www.nature.com/srep/) and Science Magazine paper search services (https://advances.sciencemag.org/). The idea of choosing Nature and Science Magazine is that papers accepted by those organizations are more broadly and generally positioned than by IEEE or OSA. Thus, checking the keywords in Nature or Science Magazine might produce trend estimations beyond the bounds of electronics or optics applications that were checked in the previous section. 
+The same keyword search and frequency-listing method above can be repeated for [_Nature_](https://www.nature.com/srep/) and [_Science Magazine_ paper search services](https://advances.sciencemag.org/). The idea of choosing _Nature_ and  _Science Magazine_ is that papers accepted by those organizations are more broadly and generally positioned than by IEEE or OSA. Thus, checking the keywords in _Nature_ or  _Science Magazine_ might produce trend estimations beyond the bounds of electronics or optics applications that were checked in the previous section. 
 
-One unfortunate problem with the Nature and Science Magazine paper search services is that the search results do not provide the keyword information selected by the authors. As a second-best measure, the paper titles are separated into words instead and their word frequencies are counted to check the trend. For example, a paper with the title “A map for phase-change materials” generates a word list of “A, map, for, phase-change, materials”. Insignificant words such as a, the, for, and so on are taken out later manually. The same title-breaking step is repeated for other searched paper titles and the frequencies of each word are counted.
+One unfortunate problem with the _Nature_ and  _Science Magazine_ paper search services is that the search results do not provide the keyword information selected by the authors. As a second-best measure, the paper titles are separated into words instead and their word frequencies are counted to check the trend. For example, a paper with the title “A map for phase-change materials” generates a word list of “A, map, for, phase-change, materials”. Insignificant words such as a, the, for, and so on are taken out later manually. The same title-breaking step is repeated for other searched paper titles and the frequencies of each word are counted.
 
-For Nature paper archive, a total of 370 results are generated with the search word “phase change material.” The publication time period is bounded from 2004 to 2019. Table 2 shows the first 30 words with the frequency counts sorted in a descending order. While the word listing on the left are not specific as was in Table 1 where the author-selected keywords are counted, it still shows frequently used words from the paper titles.
+For _Nature_ paper archive, a total of 370 results are generated with the search word “phase change material.” The publication time period is bounded from 2004 to 2019. Table 2 shows the first 30 words with the frequency counts sorted in a descending order. While the word listing on the left are not specific as was in Table 1 where the author-selected keywords are counted, it still shows frequently used words from the paper titles.
 
-In contrast with Nature paper archive search, search for Science Magazine paper archives generated only 33 results. Since this number of articles can be placed in the manual analysis, the word counting of the paper titles are omitted for the Science Magazine articles.
+In contrast with _Nature_ paper archive search, search for  _Science Magazine_ paper archives generated only 33 results. Since this number of articles can be placed in the manual analysis, the word counting of the paper titles are omitted for the  _Science Magazine_ articles.
 
 | **Word (_Nature_)** | **Count** |
 | ------------------ | ---------- |
@@ -127,7 +127,7 @@ In contrast with Nature paper archive search, search for Science Magazine paper 
 | shape-stabilized   | 10         |
 | phase              | 10         |
 
-Table 2. Top frequency words from the paper titles that appear in Nature paper search results (with the search word of “phase change material”)
+Table 2. Top frequency words from the paper titles that appear in _Nature_ paper search results (with the search word of “phase change material”)
 
 ## Analysis of American Institute of Aeronautics and Astronautics (AIAA) Paper Archive
 
