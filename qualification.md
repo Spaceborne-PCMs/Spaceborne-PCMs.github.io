@@ -12,7 +12,7 @@ filename: qualification
 
 | **Country** | **Links** | **Organization** | **Publication Year** | **Evaluated LEO Environment Effect(s)** |
 |---|---|---|---|---|
-| USA | [(1)](https://projects-web.engr.colostate.edu/ionstand/index.php),[(2)](https://aip.scitation.org/doi/abs/10.1063/1.4967619) | Colorado State University Electric Propulsion & Plasma Engineering (CEPPE) Laboratory | 2016 | Atomic oxygen |
+| USA | [(1)](https://projects-web.engr.colostate.edu/ionstand/index.php), [(2)](https://aip.scitation.org/doi/abs/10.1063/1.4967619) | Colorado State University Electric Propulsion & Plasma Engineering (CEPPE) Laboratory | 2016 | Atomic oxygen |
 |  | [(1)](http://www.xn--80ancbhdkpb2a9a.xn--p1ai/Sctc2016/4101/1715_Bil%D0%92n.pdf) | School of Electrical Engineering and Computer Science, The Pennsylvania State University | 2016 | Plasma |
 |  | [(1)](https://doi.org/10.1016/j.matdes.2019.108178) | Air Force Institute of Technology, Department of Aeronautics and Astronautics | 2019 | Atomic oxygen and UV radiation |
 |  | [(1)](https://doi.org/10.1115/1.4037684) | Materials Department, New Mexico Institute of Mining and Technology | 2017 | Gamma radiation |
@@ -61,7 +61,7 @@ filename: qualification
 
 | Reference | Organization (or Mission) | Starting Year | Ending Year | Evaluated LEO Effect(s) |
 |---|---|---|---|---|
-| [(1)](https://curator.jsc.nasa.gov/mic/ldef/)--[(2)](https://www.nasa.gov/centers/marshall/history/ldef01.html) | NASA (Long Duration Exposure Facility) | 1984 | 1990 | Micrometeoroids, space debris, radiation   particles, atomic oxygen, and radiation |
+| [(1)](https://curator.jsc.nasa.gov/mic/ldef/), [(2)](https://www.nasa.gov/centers/marshall/history/ldef01.html) | NASA (Long Duration Exposure Facility) | 1984 | 1990 | Micrometeoroids, space debris, radiation   particles, atomic oxygen, and radiation |
 | [(1)](https://www.nasa.gov/centers/langley/news/releases/1996/Mar96/96_13.html) | NASA (Mir Environmental Effects Payload) | 1996 | 1997 | Space debris |
 | [(1)](https://www.nasa.gov/centers/langley/news/factsheets/MISSE.html), [(2)](https://doi.org/10.1063/1.3076845) | NASA (Materials International Space Station Experiment, MISSE) | 2001 | 2021 | Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation |
 | [(1)](https://www.nasa.gov/stem/epscor/iss_collab/index.html) | NASA (EPSCoR ISS and Suborbital Flight Opportunity) | 2020 | 2021 | Dependent on experiment |
