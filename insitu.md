@@ -6,4 +6,6 @@ filename: insitu
 
 ![InSitu](figures/inSituLEO.svg)
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="https://www.google.com">Click me</button>
+
+[Click me](https://www.google.com){: .btn}
