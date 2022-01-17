@@ -6,4 +6,6 @@ filename: insitu
 
 ![InSitu](figures/inSituLEO.svg)
 
-[Click me](https://www.google.com){: .btn}
+Lorem ipsum dolor sit amet.
+
+![Click me](http://www.google.com){: .btn}
