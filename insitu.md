@@ -3,7 +3,10 @@ title: In-Situ Material Evaluation
 layout: template
 filename: insitu
 --- 
-# Timeline of In-Situ Evaluation Missions
+# Timeline of In Situ Evaluation Missions
+
+The figure below displays a timeline of missions from various space agencies and companies during which materials were evaluated directly in the LEO environment (in situ).
+
 ![InSitu](figures/inSituLEO.svg)
 
 ## Definitions of Acronyms
