@@ -20,7 +20,7 @@ The tables below detail the academic research laboratories, companies, and space
 | USA | [(1)](https://www.proquest.com/docview/1748093333?pq-origsite=gscholar&fromopenview=true) | University of Nebraska - Lincoln | 2015 | Atomic oxygen |
 | Europe | [(1)](https://doi.org/10.1016/j.asr.2020.03.024) | CENTRA, Faculdade de Ciências da Universidade de Lisboa, Lisboa, Portugal | 2020 | Vacuum, UV radiation, and thermal cycling |
 | Europe | [(1)](https://doi.org/10.1021/acsami.0c21552) | Advanced Technology Institute, Department of Electrical and Electronic Engineering, University of Surrey | 2021 | Atomic oxygen and UV radiation |
-| Europe | [(1)](https://doi.org/10.1016/j.actaastro.2021.01.030) | A. Alikhanyan National Science Laboratory (Yerevan Physics Institute) | 2021 | Thermal cycling, UV radiation, vacuu, plasma |
+| Europe | [(1)](https://doi.org/10.1016/j.actaastro.2021.01.030) | A. Alikhanyan National Science Laboratory (Yerevan Physics Institute) | 2021 | Thermal cycling, UV radiation, vacuum, plasma |
 | China | [(1)](https://www.scientific.net/AMR.314-316.249) | Institute of Metal Research, Chinese Academy of Science | 2011 | Atomic oxygen |
 | China | [(1)](https://arc.aiaa.org/doi/pdf/10.2514/1.10890) | City University of Hong Kong, Hong Kong, People’s Republic of China | 2004 | Atomic oxygen |
 | China | [(1)](https://doi.org/10.1016/j.compositesb.2015.03.029) | Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences | 2014 | Atomic oxygen |
@@ -45,16 +45,16 @@ The tables below detail the academic research laboratories, companies, and space
 | [(1)](https://accelrf.com/space/) | AccelRF | 2003-2021 (ongoing) | High temperatures |
 |  | International Photoonics Consultants | 2010 | Gamma radiation |
 | [(1)](https://doi.org/10.1117/12.861749) | Nusil Technology; International Photonics Consultants | 2010 | Gamma radiation |
-| [(1)](https://www.element.com/product-qualification-testing-services/space-simulation) | Element | 1827 (company   was founded)-2021 (ongoing) | Gamma radiation |
+| [(1)](https://www.element.com/product-qualification-testing-services/space-simulation) | Element | 1827 (company was founded)-2021 (ongoing) | Gamma radiation |
 
 ## Space Agencies Evaluating Materials in Simulated LEO Conditions
 
 | **Links** | **Organization** | **Year** | **Evaluated LEO Effect(s)** |
 |---|---|---|---|
-| [(1)](https://doi.org/10.1109/TPS.2019.2914659) | Space Environmental Effects Team, NASA   Marshall Space Flight Center | 2019 | Plasma |
+| [(1)](https://doi.org/10.1109/TPS.2019.2914659) | Space Environmental Effects Team, NASA Marshall Space Flight Center | 2019 | Plasma |
 | [(1)](https://doi.org/10.1016/j.asr.2019.03.025) | Jet Propulsion Laboratory, California Institute of Technology | 2019 | Radiation |
 | [(1)](https://doi.org/10.1016/j.jpowsour.2004.08.021) | JAXA | 2004 | Vacuum |
-| [(1)](https://doi.org/10.1016/j.compscitech.2013.08.017) | Department of Launch Vehicle System Integration, Korea Aerospace Research   Institute | 2013 | Vacuum, atomic oxygen, UV radiation, and thermal cycling |
+| [(1)](https://doi.org/10.1016/j.compscitech.2013.08.017) | Department of Launch Vehicle System Integration, Korea Aerospace Research Institute | 2013 | Vacuum, atomic oxygen, UV radiation, and thermal cycling |
 | [(1)](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Materials_Electrical_Components_Laboratory) | ESA (Materials & Electrical Components Laboratory) | -2021 (ongoing) | Radiation, thermal cycling, atomic oxygen. |
 
 ## Space Agencies and Companies Materials _in situ_
@@ -65,7 +65,7 @@ The tables below detail the academic research laboratories, companies, and space
 | [(1)](https://www.nasa.gov/centers/langley/news/releases/1996/Mar96/96_13.html) | NASA (Mir Environmental Effects Payload) | 1996 | 1997 | Space debris |
 | [(1)](https://www.nasa.gov/centers/langley/news/factsheets/MISSE.html), [(2)](https://doi.org/10.1063/1.3076845) | NASA (Materials International Space Station Experiment, MISSE) | 2001 | 2021 | Micrometeoroids, space debris, radiation particles, atomic oxygen, and   radiation |
 | [(1)](https://www.nasa.gov/stem/epscor/iss_collab/index.html) | NASA (EPSCoR ISS and Suborbital Flight Opportunity) | 2020 | 2021 | Dependent on experiment |
-| [(1)](https://arc.aiaa.org/doi/pdf/10.2514/3.25965) | NASA (Advanced Composite materials Exposure to Space Experiment, ACOMEX   on STS-41G) | 1984 | 1984-89 | Atomic oxygen |
+| [(1)](https://arc.aiaa.org/doi/pdf/10.2514/3.25965) | NASA (Advanced Composite materials Exposure to Space Experiment, ACOMEX on STS-41G) | 1984 | 1984-89 | Atomic oxygen |
 | [(1)](https://doi.org/10.1016/j.actaastro.2020.11.048) | JAXA (Materials Degradation Monitor) | 2017 | 2019 | Atomic oxygen |
 | [(1)](https://doi.org/10.1557/mrs2010.613) | JAXA (Evaluation of Oxygen with Materials, EOIM) | 1992 | 1992-89 | Atomic oxygen |
 | [(1)](https://doi.org/10.1002/pip.1046) | JAXA (Small Demonstration Satellite) | 2009 | 2009-19 | Atomic oxygen and radiation |

@@ -9,7 +9,7 @@ filename: index
 This site details supplmentary information related to spaceborne chalcogenide phase-change materials (PCMs) in low-earth orbit (LEO).
 
 ## Site Map
-[**Keyword Survey**](https://spaceborne-pcms.github.io/keywordsurvey): This page details the findings from a survey of keywords from the Institute of Electrical and Electroncis Engineers (IEEE) and Optica (formerly known as The Optical Society).
+[**Keyword Survey**](https://spaceborne-pcms.github.io/keywordsurvey): This page details the findings from a survey of keywords from the Institute of Electrical and Electroncis Engineers (IEEE), Optica (formerly known as The Optical Society), _Nature_, _Science Magazine_, and the American Institute of Aeronautics and Astronautics (AIAA).
 
 [**Qualification of Spaceborne PCMs**](https://spaceborne-pcms.github.io/qualification): This pages contains tables detailing information on the organizations that have worked on material qualification in LEO. Academic research laboraties, companies, and space agencies are detailed for having studied materials in both simulated LEO conditions or in situ.
 

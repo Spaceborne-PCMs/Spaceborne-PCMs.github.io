@@ -5,19 +5,19 @@ filename: keywordsurvey
 --- 
 # Methods for Collecting and Processing Keywords
 
-## Analysis of the Paper Search Results from Institute of Electrical and Electronics Engineers (IEEE) and The Optical Society (OSA) 
+## Analysis of the Paper Search Results from Institute of Electrical and Electronics Engineers (IEEE) and Optica 
 
-In order to find the trends in research related to phase change material (PCM), a keyword search for the academic peer-reviewed papers is conducted. As an initial step, the paper search services of Institute of Electrical and Electronics Engineers (IEEE) and The Optical Society (OSA) are selected to collect papers related to PCM. 
+In order to find the trends in research related to phase change materials (PCMs), a keyword search for the academic peer-reviewed papers was conducted. As an initial step, the paper search services of the Institute of Electrical and Electronics Engineers (IEEE) and Optica (formerly known as The Optical Society, OSA) were selected to collect papers related to PCMs. 
 
-One notable search feature of the IEEE and OSA paper search services is that the citation information includes the keywords selected by the authors. For example, suppose paper A has been retrieved by searching with the search word “phase change material”. The citation data bundled with the paper search result contain author-selected keywords such as germanium compounds, thermal conductivity, random-access storage, and so on.
+One notable search feature of the IEEE and Optica paper search services is that the citation information includes the keywords selected by the authors. For example, suppose Paper A has been retrieved by searching with the search word “phase change material”. The citation data bundled with the paper search result contain author-selected keywords such as germanium compounds, thermal conductivity, random-access storage, etc.
 
 The idea of estimating research trends is that these keywords are closely related to the search word “phase change material.” If the keywords are repeatedly seen in other searched papers as well, it can be regarded that those keywords are more popular among researchers and there might be a strong research trend represented by the keywords.
 
-Selection of IEEE and OSA paper archives was determined in terms of the application area. While IEEE papers focus more on electronics-related research issues, OSA focuses on optics. Thus, the keyword searches with “phase change material” for both paper archives are expected to provide PCM research trends in (i) electronics in general and in (ii) optics.
+Selection of IEEE and Optica paper archives was determined in terms of the application area. Whereas IEEE papers focus more on electronics-related research issues, Optica focuses on optics. Thus, the keyword searches with “phase change material” for both paper archives are expected to provide PCM research trends in (i) electronics in general and in (ii) optics.
 
-Table 1 shows the top 30 keywords appeared in the search result (with “phase change material”) sorted by the appearing frequency. In order to put a bound in the research trend period, the search is filtered from the year 2004 to 2019. “Phase change material” is provided as the search word. [IEEE search services](https://ieeexplore.ieee.org/search/advanced) generated a total of 5891 results and [OSA](https://www.osapublishing.org/search.cfm) generated 974 papers, as of December 8, 2019. Since manually retrieving all the search results from the web pages takes excessive time and effort, the first 1000 search results from IEEE and 500 searches from OSA results are selected to further analyze the keywords listed in the papers.
+Table 1 shows the top 30 keywords appeared in the search result (with “phase change material”) sorted by the appearing frequency. In order to put a bound in the research trend period, the search is filtered from the year 2004 to 2019. “Phase change material” is provided as the search word. [IEEE search services](https://ieeexplore.ieee.org/search/advanced) generated a total of 5891 results and [Optica](https://www.osapublishing.org/search.cfm) generated 974 papers, as of December 8, 2019. Since manually retrieving all the search results from the web pages would take excessive time and effort, the first 1000 search results from IEEE and 500 searches from OSA results were selected to further analyze the keywords listed in the papers.
 
-The keyword information can be extracted from the citation data (RIS format in particular) provided by the search services and a simple Python script was written to extract the keywords. Once the keywords are retrieved, its frequencies are counted and sorted in a descending order. From Table 1, it can be seen that the keywords chosen by the authors show different trends depending on the search results being from IEEE or OSA archive.
+The keyword information can be extracted from the citation data (RIS format in particular) provided by the search services and a simple Python script was written to extract the keywords. Once the keywords were retrieved, its frequencies were counted and sorted in a descending order. From Table 1, it can be seen that the keywords chosen by the authors show different trends depending on the search results being from IEEE or Optica archive.
 
 | **Keyword (IEEE)**                 | **Count** |
 | ---------------------------------- | --------- |
@@ -51,7 +51,7 @@ The keyword information can be extracted from the citation data (RIS format in p
 | chalcogenide  glasses              | 75        |
 | crystallisation                    | 69        |
 
-| **Keyword  (OSA)**            | **Count** |
+| **Keyword  (Optica)**            | **Count** |
 | ----------------------------- | ---------- |
 | Refractive  index             | 159        |
 | Phase  shift                  | 108        |
@@ -89,11 +89,11 @@ Table 1. Top frequency keywords appeared in IEEE and OSA paper search results (w
 
 The same keyword search and frequency-listing method above can be repeated for [_Nature_](https://www.nature.com/srep/) and [_Science Magazine_ paper search services](https://advances.sciencemag.org/). The idea of choosing _Nature_ and  _Science Magazine_ is that papers accepted by those organizations are more broadly and generally positioned than by IEEE or OSA. Thus, checking the keywords in _Nature_ or  _Science Magazine_ might produce trend estimations beyond the bounds of electronics or optics applications that were checked in the previous section. 
 
-One unfortunate problem with the _Nature_ and  _Science Magazine_ paper search services is that the search results do not provide the keyword information selected by the authors. As a second-best measure, the paper titles are separated into words instead and their word frequencies are counted to check the trend. For example, a paper with the title “A map for phase-change materials” generates a word list of “A, map, for, phase-change, materials”. Insignificant words such as a, the, for, and so on are taken out later manually. The same title-breaking step is repeated for other searched paper titles and the frequencies of each word are counted.
+One unfortunate problem with the _Nature_ and  _Science Magazine_ paper search services is that the search results do not provide the keyword information selected by the authors. As a second-best measure, the paper titles were separated into words instead and their word frequencies were counted to check the trend. For example, a paper with the title “A map for phase-change materials” generates a word list of “A, map, for, phase-change, materials”. Insignificant words such as a, the, for, and so on are taken out later manually. The same title-breaking step is repeated for other searched paper titles and the frequencies of each word are counted.
 
-For _Nature_ paper archive, a total of 370 results are generated with the search word “phase change material.” The publication time period is bounded from 2004 to 2019. Table 2 shows the first 30 words with the frequency counts sorted in a descending order. While the word listing on the left are not specific as was in Table 1 where the author-selected keywords are counted, it still shows frequently used words from the paper titles.
+For _Nature_ paper archive, a total of 370 results were generated with the search word “phase change material.” The publication time period was bounded from 2004 to 2019. Table 2 shows the first 30 words with the frequency counts sorted in a descending order. While the word listing on the left are not specific as was in Table 1 where the author-selected keywords are counted, it still shows frequently used words from the paper titles.
 
-In contrast with _Nature_ paper archive search, search for  _Science Magazine_ paper archives generated only 33 results. Since this number of articles can be placed in the manual analysis, the word counting of the paper titles are omitted for the  _Science Magazine_ articles.
+In contrast with _Nature_ paper archive search, search for  _Science Magazine_ paper archives generated only 33 results. Since this number of articles can be placed in the manual analysis, the word counting of the paper titles were omitted for the  _Science Magazine_ articles.
 
 | **Word (_Nature_)** | **Count** |
 | ------------------ | ---------- |
@@ -131,9 +131,9 @@ Table 2. Top frequency words from the paper titles that appear in _Nature_ paper
 
 ## Analysis of American Institute of Aeronautics and Astronautics (AIAA) Paper Archive
 
-Finally, the word counting of the paper titles is repeated for American Institute of Aeronautics and Astronautics (AIAA) paper archive search results. Since AIAA paper search service does not provide the keywords information selected by the authors either, the paper titles are broken down into words and counted individually. 
+Finally, the word counting of the paper titles was repeated for American Institute of Aeronautics and Astronautics (AIAA) paper archive search results. Since AIAA paper search service does not provide the keywords information selected by the authors either, the paper titles were broken down into words and counted individually. 
 
-The purpose of analyzing AIAA paper archive is to find the trends of PCM uses or applications in aerospace or aeronautical fields. Since aerospace engineering requires the state-of-the-art applications of materials used in aircrafts or spacecrafts, estimation of the newest trend in PCM use can be an important information that can help direct (or allocate) future research resources optimally. 
+The purpose of analyzing AIAA paper archive was to find the trends of PCM uses or applications in aerospace or aeronautical fields. Since aerospace engineering requires the state-of-the-art applications of materials used in aircrafts or spacecrafts, estimation of the newest trend in PCM use can be crucial information to help direct (or allocate) future research resources optimally. 
 
 Table 3 shows the first 30 words with the frequency counts sorted in a descending order from the AIAA paper search results (with the search word of “phase change material”). As was in the previous cases, the paper publication dates are bounded into from 2004 to 2019. The total of 370 search results are obtained.
 

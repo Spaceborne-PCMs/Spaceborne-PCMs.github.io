@@ -17,7 +17,7 @@ MISSE: Materials International Space Station Experiment
 
 ### Russion Space Program
 
-RCC-1: Mission for the Russion Space Program operating from 1990 to 1991.
+RCC-1: Mission for the Russian Space Program operating from 1990 to 1991.
 
 RSC Energia: Program with the Russion Space Program from 1990 to 2008.
 
