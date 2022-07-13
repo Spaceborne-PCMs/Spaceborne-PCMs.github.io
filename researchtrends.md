@@ -22,8 +22,9 @@ PCMs’ non-volatile, reconfigurable, and fast-switching characteristics are an 
 
 ![InSitu](figures/keywordsearch.png)
 
-**<center>**Figure. keyword survey to show research trend of PCMs toward space applications.**
-The 25 keywords listed the most frequently with the phrase “phase change material” as obtained from IEEE, AIAA, and Optica publications between the years 2004 to 2022. The overlapping keywords are “ultrafast switch”, “high density”, “compact”, “thin film”, and “phase modulation”. All these are terms relevant to the potential use of PCM-based optical elements in spacecraft systems with stringent SWaP requirements. Note that the keyword size is proportional to the appearance frequency.</center>
+**<center>**Figure. keyword survey to show research trend of PCMs toward space applications.</center>**
+
+<center>The 25 keywords listed the most frequently with the phrase “phase change material” as obtained from IEEE, AIAA, and Optica publications between the years 2004 to 2022. The overlapping keywords are “ultrafast switch”, “high density”, “compact”, “thin film”, and “phase modulation”. All these are terms relevant to the potential use of PCM-based optical elements in spacecraft systems with stringent SWaP requirements. Note that the keyword size is proportional to the appearance frequency.</center>
 
 References
 1.	Kelliher, W. C. et al. NASA TN D-6756, https://ntrs.nasa.gov/citations/19720018274 (1972). 
