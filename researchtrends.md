@@ -22,19 +22,19 @@ PCMs’ non-volatile, reconfigurable, and fast-switching characteristics are an 
 
 ![InSitu](figures/keywordsearch.png)
 
-**<center>**Figure. keyword survey to show research trend of PCMs toward space applications.</center>**
+**<center>**Figure. Keyword survey to show research trend of PCMs toward space applications.</center>**
 
 <center>The 25 keywords listed the most frequently with the phrase “phase change material” as obtained from IEEE, AIAA, and Optica publications between the years 2004 to 2022. The overlapping keywords are “ultrafast switch”, “high density”, “compact”, “thin film”, and “phase modulation”. All these are terms relevant to the potential use of PCM-based optical elements in spacecraft systems with stringent SWaP requirements. Note that the keyword size is proportional to the appearance frequency.</center>
 
 References
-1.	Kelliher, W. C. et al. NASA TN D-6756, https://ntrs.nasa.gov/citations/19720018274 (1972). 
+1.	Kelliher, W. C. et al. NASA TN D-6756, [https://ntrs.nasa.gov/citations/19720018274](https://ntrs.nasa.gov/citations/19720018274) (1972). 
 2.	Howes, A. et al. Adv. Optical Mater. 8 (4), 1901479 (2019).
 3.	Quinn, G. Hodgson, E. & Stephan, R. AIAA 2011-5229 (2011).
 4.	Choi, M. K. AIAA 2012-3894 (2012). 
 5.	Pearce, J. V. et al. Meas. Sci. Technol. 30, 124003 (2019).
-6.	F. A. et al. Proceedings of SPIE, 78570J, https://doi.org/10.1117/12.869564 (2010).
-7.	Leahu, G. L. et al. AIP conference proceedings, 1603, 62, https://doi.org/10.1063/1.4883043 (2014).
-8.	Gu, T. et al. Nature Photon. in processing, “Active metasurfaces: lighting the path to a sparkling success”, https://arxiv.org/abs/2205.14193 (2022).
+6.	F. A. et al. Proceedings of SPIE, 78570J, [https://doi.org/10.1117/12.869564](https://doi.org/10.1117/12.869564) (2010).
+7.	Leahu, G. L. et al. AIP conference proceedings, 1603, 62, [https://doi.org/10.1063/1.4883043](https://doi.org/10.1063/1.4883043) (2014).
+8.	Gu, T. et al. Nature Photon. in processing, “Active metasurfaces: lighting the path to a sparkling success”, [https://arxiv.org/abs/2205.14193](https://arxiv.org/abs/2205.14193) (2022).
 9.	Zhang, Y. et al. Nat. Nanotechnol. 16, 661–666 (2021).
 10.	Xu, J., Mandal, J., & Raman, A. P., Science 372 (654), 393–397 (2021).
 11.	Qu, Y. et al. Light Sci.& Appl. 7, 26 (2018).
