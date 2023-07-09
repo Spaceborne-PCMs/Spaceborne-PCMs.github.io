@@ -8,9 +8,9 @@ filename: index
 
 This site details supplmentary information related to spaceborne chalcogenide phase-change materials (PCMs) in low-earth orbit (LEO).
 
-This site also intends to serve as a compendium of the MISSE-14 campaign. The MISSE-14 mission entitled “Tunable mid-wave infrared, MWIR filters based on exotic phase change materials (PIs: Dr. Hyun Jung Kim and Mr. William Humphreys at NASA Langley Research Center / LaRC)” was awarded by NASA Space Technology Mission Directorate (STMD) and International Space Station Research Office in 2020. ![image](https://github.com/Spaceborne-PCMs/Spaceborne-PCMs.github.io/assets/46980996/36da1a2e-6ccd-4ef1-bee5-a23ad058fa9a)
+This site also intends to serve as a compendium of the MISSE-14 campaign. The MISSE-14 mission entitled “Tunable mid-wave infrared, MWIR filters based on exotic phase change materials (PIs: Dr. Hyun Jung Kim and Mr. William Humphreys at NASA Langley Research Center / LaRC)” was awarded by NASA Space Technology Mission Directorate (STMD) and International Space Station Research Office in 2020.
 
-If you have any questions related to the mission and technologies, please contact [Dr. Hyun Jung Kim](mailto:hyunjung.kim@nasa.gov) ([hyunjung.kim@nasa.gov](mailto:hyunjung.kim@nasa.gov)) at NASA LaRC.![image](https://github.com/Spaceborne-PCMs/Spaceborne-PCMs.github.io/assets/46980996/bf44f50f-e294-4159-b774-4e003cb77b6c)
+If you have any questions related to the mission and technologies, please contact [Dr. Hyun Jung Kim](mailto:hyunjung.kim@nasa.gov) ([hyunjung.kim@nasa.gov](mailto:hyunjung.kim@nasa.gov)) at NASA LaRC.
 
 ## Site Map
 [**Qualification of Spaceborne PCMs**](https://spaceborne-pcms.github.io/qualification): This pages contains tables detailing information on the organizations that have worked on material qualification in LEO. Academic research laboraties, companies, and space agencies are detailed for having studied materials in both simulated LEO conditions or in situ.
