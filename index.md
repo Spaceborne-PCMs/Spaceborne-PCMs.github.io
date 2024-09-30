@@ -10,7 +10,7 @@ This site details supplmentary information related to spaceborne chalcogenide ph
 
 This site also intends to serve as a compendium of the MISSE-14 campaign. The MISSE-14 mission entitled “Tunable mid-wave infrared, MWIR filters based on exotic phase change materials (PIs: Dr. Hyun Jung Kim and Mr. William Humphreys at NASA Langley Research Center / LaRC)” was awarded by NASA Space Technology Mission Directorate (STMD) and International Space Station Research Office in 2020.
 
-If you have any questions related to the mission and technologies, please contact [Dr. Hyun Jung Kim](mailto:hyunjung.kim@nasa.gov) ([hyunjung.kim@nasa.gov](mailto:hyunjung.kim@nasa.gov)) at NASA LaRC.
+If you have any questions related to the mission and technologies, please contact [Dr. Hyun Jung Kim](mailto:hyunjung.kim1@kaist.ac.kr) ([hyunjung.kim1@kaist.ac.kr](mailto:hyunjung.kim1@kaist.ac.kr)) at NASA LaRC.
 
 ## Site Map
 [**Qualification of Spaceborne PCMs**](https://spaceborne-pcms.github.io/qualification): This pages contains tables detailing information on the organizations that have worked on material qualification in LEO. Academic research laboraties, companies, and space agencies are detailed for having studied materials in both simulated LEO conditions or in situ.
