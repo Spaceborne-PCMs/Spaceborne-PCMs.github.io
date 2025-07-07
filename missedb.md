@@ -30,20 +30,24 @@ This webpage is intended to evolve into the first **integrated database** that c
 <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
 <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
 
-<!-- ✅ 다운로드 버튼 -->
-<a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="download-btn">
-  ⬇️ Download Original Excel (.xlsx)
-</a>
+<h2>MISSE-DB Table</h2>
 
-<!-- ✅ 테이블 컨테이너 -->
-<div id="excel-table">Loading Excel data...</div>
+<!-- ✅ 다운로드 버튼을 감싸는 컨테이너 -->
+<div class="download-container">
+  <a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="download-btn">
+    ⬇️ Download Original Excel (.xlsx)
+  </a>
+</div>
 
-<!-- ✅ 스타일 (선택) -->
+<!-- ✅ 스타일 -->
 <style>
-.download-btn {
-  display: inline-block;
-  padding: 10px 18px;
+.download-container {
+  display: flex;
+  justify-content: center;
   margin: 1em 0;
+}
+.download-btn {
+  padding: 10px 18px;
   font-size: 16px;
   background-color: #007acc;
   color: white;
