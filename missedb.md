@@ -25,16 +25,38 @@ This webpage is intended to evolve into the first **integrated database** that c
 - **Design of spacecraft and structural components**
 - **Mission planning and long-duration durability assessments**
 
+<!-- gridjs + SheetJS -->
 <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
 <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
 <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
 
-<a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="btn">
-  Download Original Excel (.xlsx)
+<!-- ✅ 다운로드 버튼 -->
+<a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="download-btn">
+  ⬇️ Download Original Excel (.xlsx)
 </a>
 
+<!-- ✅ 테이블 컨테이너 -->
 <div id="excel-table">Loading Excel data...</div>
 
+<!-- ✅ 스타일 (선택) -->
+<style>
+.download-btn {
+  display: inline-block;
+  padding: 10px 18px;
+  margin: 1em 0;
+  font-size: 16px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.download-btn:hover {
+  background-color: #005fa3;
+}
+</style>
+
+<!-- ✅ Excel + Gridjs 테이블 렌더링 -->
 <script>
 fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
   .then(res => res.arrayBuffer())
@@ -47,7 +69,7 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     const data = json.slice(1);
 
     const container = document.getElementById("excel-table");
-    container.innerHTML = "";  // ⚠️ 꼭 비워줘야 함
+    container.innerHTML = "";
 
     new gridjs.Grid({
       columns: headers,
@@ -55,7 +77,7 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
       sort: true,
       pagination: {
         enabled: true,
-        limit: 30
+        limit: 15
       }
     }).render(container);
   })
