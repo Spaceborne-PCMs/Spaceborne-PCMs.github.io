@@ -31,7 +31,7 @@ This webpage is intended to evolve into the first **integrated database** that c
 
 ## Data Table
 
-<div id="excel-table">Loading Excel data...</div>
+<div id="excel-table">Loading Excel data..</div>
 
 <!-- SheetJS JavaScript: Render Excel file -->
 <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
