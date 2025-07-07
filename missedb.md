@@ -46,7 +46,7 @@ This webpage is intended to evolve into the first **integrated database** that c
 }
 
 .gridjs-wrapper {
-  min-width: 1200px;  /* 원하는 최소 테이블 너비 */
+  min-width: 1800px;  /* 원하는 최소 테이블 너비 */
 }
 </style>
 
