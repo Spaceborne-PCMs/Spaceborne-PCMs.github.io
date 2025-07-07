@@ -44,6 +44,10 @@ This webpage is intended to evolve into the first **integrated database** that c
   max-width: 100% !important;
   box-sizing: border-box;
 }
+
+.gridjs-wrapper {
+  min-width: 1200px;  /* 원하는 최소 테이블 너비 */
+}
 </style>
 
 <script>
