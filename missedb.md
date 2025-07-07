@@ -84,7 +84,7 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
       sort: true,
       pagination: {
         enabled: true,
-        limit: 15
+        limit: 25
       }
     }).render(container);
   })
