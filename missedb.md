@@ -31,12 +31,21 @@ This webpage is intended to evolve into the first **integrated database** that c
 <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
 
 <h2>MISSE-DB Table</h2>
-
-
-<!-- ✅ 엑셀 테이블을 표시할 곳 -->
 <div id="excel-table">Loading Excel data...</div>
 
-<!-- ✅ Excel + Gridjs 테이블 렌더링 -->
+<style>
+#excel-table {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.gridjs-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+</style>
+
 <script>
 fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
   .then(res => res.arrayBuffer())
@@ -49,7 +58,7 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     const data = json.slice(1);
 
     const container = document.getElementById("excel-table");
-    container.innerHTML = "";  // ✅ 기존 텍스트 제거
+    container.innerHTML = "";
 
     new gridjs.Grid({
       columns: headers,
@@ -62,19 +71,17 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     }).render(container);
   })
   .catch(error => {
-    document.getElementById("excel-table").innerText = "❌ Failed to load Excel file.";
+    document.getElementById("excel-table").innerText = "Failed to load Excel file.";
     console.error("Excel fetch/render error:", error);
   });
 </script>
 
-<!-- ✅ 다운로드 버튼을 감싸는 컨테이너 -->
 <div class="download-container">
   <a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="download-btn">
     ⬇️ Download Original Excel (.xlsx)
   </a>
 </div>
 
-<!-- ✅ 스타일 -->
 <style>
 .download-container {
   display: flex;
