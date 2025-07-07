@@ -1,5 +1,5 @@
 ---
-title: Collection Of Space Materials Online at STAR Lab
+title: COSMOS
 layout: template
 filename: COSMOS
 ---
