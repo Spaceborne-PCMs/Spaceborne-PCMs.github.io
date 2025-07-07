@@ -44,7 +44,19 @@ This webpage is intended to evolve into the first **integrated database** that c
   max-width: 100% !important;
   box-sizing: border-box;
 }
+.gridjs-table {
+  font-size: 12px;
+}
 
+.gridjs-th {
+  font-weight: bold;
+}
+
+.gridjs-td {
+  padding: 10px;
+}
+
+  
 </style>
 
 <script>
