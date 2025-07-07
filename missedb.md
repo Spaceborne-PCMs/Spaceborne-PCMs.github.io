@@ -31,9 +31,10 @@ This webpage is intended to evolve into the first **integrated database** that c
 
 ## Data Table
 
-<div id="excel-table">Loading Excel data..</div>
+<h2>Data Table</h2>
 
-<!-- SheetJS JavaScript: Render Excel file -->
+<div id="excel-table">Loading Excel data...</div>
+
 <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
 <script>
   fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
