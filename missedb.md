@@ -25,19 +25,14 @@ This webpage is intended to evolve into the first **integrated database** that c
 - **Design of spacecraft and structural components**
 - **Mission planning and long-duration durability assessments**
 
-<!-- 스타일 및 라이브러리 -->
 <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
 <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
 <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
 
-<h2>MISSE-DB Table</h2>
-
-<!-- 다운로드 버튼 -->
 <a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="btn">
   Download Original Excel (.xlsx)
 </a>
 
-<!-- 테이블 표시 -->
 <div id="excel-table">Loading Excel data...</div>
 
 <script>
@@ -51,6 +46,9 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     const headers = json[0];
     const data = json.slice(1);
 
+    const container = document.getElementById("excel-table");
+    container.innerHTML = "";  // ⚠️ 꼭 비워줘야 함
+
     new gridjs.Grid({
       columns: headers,
       data: data,
@@ -59,7 +57,11 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
         enabled: true,
         limit: 15
       }
-    }).render(document.getElementById("excel-table"));
+    }).render(container);
+  })
+  .catch(error => {
+    document.getElementById("excel-table").innerText = "❌ Failed to load Excel file.";
+    console.error("Excel fetch/render error:", error);
   });
 </script>
 
