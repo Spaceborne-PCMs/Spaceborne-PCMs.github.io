@@ -28,3 +28,22 @@ This webpage is intended to evolve into the first **integrated database** that c
 - **Space materials development**  
 - **Design of spacecraft and structural components**
 - **Mission planning and long-duration durability assessments**
+
+<a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="btn">Download MISSE-DB (.xlsx)</a>
+
+## Data Table
+
+<div id="excel-table">Loading Excel data...</div>
+
+<!-- SheetJS JavaScript: Render Excel file -->
+<script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
+<script>
+  fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
+    .then(res => res.arrayBuffer())
+    .then(buffer => {
+      const wb = XLSX.read(buffer, { type: "array" });
+      const sheet = wb.Sheets[wb.SheetNames[0]];
+      const html = XLSX.utils.sheet_to_html(sheet);
+      document.getElementById("excel-table").innerHTML = html;
+    });
+</script>
