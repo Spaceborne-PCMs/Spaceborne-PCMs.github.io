@@ -4,7 +4,7 @@ layout: template
 filename: COSMOS
 ---
 
-# Locations of Facilities for Evaluation of Materials in Simulated LEO Conditions
+# Collection Of Space Materials Online at STAR Lab
 
 Universities, companies, and space agencies from across the globe have studied materials in simulated LEO conditions. Below are maps that details the locations of the organizations that have carried out these types of studies. Please note that this information is expansive but not all-inclusive; the list serves as a useful reference as opposed to an all-ecompasing list.
 
