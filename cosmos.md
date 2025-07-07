@@ -1,7 +1,7 @@
 ---
 title: COSMOS
 layout: template
-filename: COSMOS
+filename: cosmos
 ---
 
 # Collection Of Space Materials Online at STAR Lab
