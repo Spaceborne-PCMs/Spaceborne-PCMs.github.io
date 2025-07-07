@@ -29,8 +29,6 @@ This webpage is intended to evolve into the first **integrated database** that c
 - **Design of spacecraft and structural components**
 - **Mission planning and long-duration durability assessments**
 
-<a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="btn">Download MISSE-DB (.xlsx)</a>
-
 ## Data Table
 
 <div id="excel-table">Loading Excel data...</div>
