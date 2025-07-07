@@ -39,6 +39,9 @@ This webpage is intended to evolve into the first **integrated database** that c
   </a>
 </div>
 
+<!-- ✅ 엑셀 테이블을 표시할 곳 -->
+<div id="excel-table">Loading Excel data...</div>
+
 <!-- ✅ 스타일 -->
 <style>
 .download-container {
@@ -73,7 +76,7 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     const data = json.slice(1);
 
     const container = document.getElementById("excel-table");
-    container.innerHTML = "";
+    container.innerHTML = "";  // ✅ 기존 텍스트 제거
 
     new gridjs.Grid({
       columns: headers,
@@ -90,4 +93,3 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     console.error("Excel fetch/render error:", error);
   });
 </script>
-
