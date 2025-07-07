@@ -32,36 +32,9 @@ This webpage is intended to evolve into the first **integrated database** that c
 
 <h2>MISSE-DB Table</h2>
 
-<!-- ✅ 다운로드 버튼을 감싸는 컨테이너 -->
-<div class="download-container">
-  <a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="download-btn">
-    ⬇️ Download Original Excel (.xlsx)
-  </a>
-</div>
 
 <!-- ✅ 엑셀 테이블을 표시할 곳 -->
 <div id="excel-table">Loading Excel data...</div>
-
-<!-- ✅ 스타일 -->
-<style>
-.download-container {
-  display: flex;
-  justify-content: center;
-  margin: 1em 0;
-}
-.download-btn {
-  padding: 10px 18px;
-  font-size: 16px;
-  background-color: #007acc;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  text-decoration: none;
-}
-.download-btn:hover {
-  background-color: #005fa3;
-}
-</style>
 
 <!-- ✅ Excel + Gridjs 테이블 렌더링 -->
 <script>
@@ -93,3 +66,32 @@ fetch("{{ site.baseurl }}/assets/data/missedb.xlsx")
     console.error("Excel fetch/render error:", error);
   });
 </script>
+
+<!-- ✅ 다운로드 버튼을 감싸는 컨테이너 -->
+<div class="download-container">
+  <a href="{{ site.baseurl }}/assets/data/missedb.xlsx" download class="download-btn">
+    ⬇️ Download Original Excel (.xlsx)
+  </a>
+</div>
+
+<!-- ✅ 스타일 -->
+<style>
+.download-container {
+  display: flex;
+  justify-content: center;
+  margin: 1em 0;
+}
+.download-btn {
+  padding: 10px 18px;
+  font-size: 16px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.download-btn:hover {
+  background-color: #005fa3;
+}
+</style>
+
