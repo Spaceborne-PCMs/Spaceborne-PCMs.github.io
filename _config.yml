@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 # Dependencies
 markdown:    kramdown
 highlighter: rouge
+
+baseurl: "/Spaceborne-PCMs.github.io"
