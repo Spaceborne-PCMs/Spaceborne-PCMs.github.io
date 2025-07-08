@@ -3,4 +3,4 @@ theme: jekyll-theme-slate
 markdown:    kramdown
 highlighter: rouge
 
-baseurl: "/Spaceborne-PCMs.github.io"
+baseurl: "/"
